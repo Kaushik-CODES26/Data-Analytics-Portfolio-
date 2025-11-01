@@ -37,8 +37,8 @@ I enjoy turning datasets into meaningful insights through visualization and mode
 📬 **Connect with me:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kaushik--CODES26-black?logo=github)](https://github.com/Kaushik-CODES26)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik--Tiwari-blue?logo=linkedin)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-kaushik@example.com-red?logo=gmail)](mailto:kaushik@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik--Tiwari-blue?logo=linkedin)](www.linkedin.com/in/kaushik-tiwari-259a5b320)  
+[![Email](https://img.shields.io/badge/Email-kaushik@example.com-red?logo=gmail)](mailto:kaushikt2609@gmail.com)
 
 ---
 
