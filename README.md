@@ -18,6 +18,7 @@ Each project folder includes:
 | [💹 Stock Market Analysis](./stock_market_analysis/stock_market_analysis.ipynb) | Analyzed stock trends and volatility using Pandas & yFinance. | `Python`, `NumPy`, `Matplotlib`, `yfinance` |
 | [🏪 Retail Performance Dashboard](./retail_dashboard/retail_dashboard.ipynb) | Created an interactive dashboard for sales KPIs using Power BI. | `Power BI`, `Excel`, `Pandas` |
 | [💰 Customer Lifetime Value (CLV) Model](./clv_model/clv_model.ipynb) | Predicted long-term customer value using Python’s ML libraries. | `Python`, `Scikit-learn`, `Seaborn` |
+| 📊 Instant Data Insights Web App | Built a web application that allows users to upload CSV files and automatically generates insights and visualizations. Implemented a preview-to-paid flow with a QR-based payment screen to unlock full analysis. | Python, Flask, Pandas, Matplotlib, Seaborn, HTML, CSS |
 
 ---
 
